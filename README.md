@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## RESULTADOS
 
+![alt text](image.png)
 
+https://computer.tldraw.com/t/vD7jQWUpQxVD8SxhTjioSb
 
 ## Getting Started
 
